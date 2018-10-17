@@ -4,6 +4,9 @@
            <meta charset="utf-8">
            <title>Frozen Waffle Tier List</title>
        </head>
+  <style>
+    <body background="images/pokemon.jpg">
+  </style>
        <body>
            <img src="images/lamp.jpg">
            <h1>
@@ -18,5 +21,4 @@
   </html>
   <html>
 <html>
-<body background="images/pokemon.jpg">
 </body>
