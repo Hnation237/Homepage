@@ -17,7 +17,7 @@
           </h2>
           
       </body>
-             <a href="https://scratch.mit.edu/projects/246340804/#player">Scratch Game</a> | <a href="https://hnation237.github.io/Ice-Cream/">Ice Cream teir list</a> | <a href="https://hnation237.github.io/Waffles/">Frozen Waffle Tier List</a>
+             <a href="https://scratch.mit.edu/projects/246340804/#player">Scratch Game</a> | <a href="https://hnation237.github.io/Ice-Cream/">Ice Cream teir list</a> | <a href="https://hnation237.github.io/Waffles/">Frozen Waffle Tier List</a> | <a href="https://repl.it/@HenryNation/JohnWickIsInGraveDanger">Frozen Waffle Tier List</a>
   </html>
   <html>
 <html>
